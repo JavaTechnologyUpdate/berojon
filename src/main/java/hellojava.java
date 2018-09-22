@@ -20,6 +20,12 @@ public class hellojava extends Baseclass {
 		System.out.println("hello java ");
 	}
 	
+	@Test
+	public void tes4()
+	 {
+		System.out.println("hello java ");
+	}
+	
 	@Before
 	public void tes3()
 	 {
